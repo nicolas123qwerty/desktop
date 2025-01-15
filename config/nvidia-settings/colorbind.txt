@@ -1,4 +1,4 @@
-Digital Vibrance:
+Digital Vibrance: 150
 Brightness:
 Contrast:
 Gamma:
