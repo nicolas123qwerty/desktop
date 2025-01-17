@@ -1,0 +1,12 @@
+the path is: /opt/discord - change the file with thunar in sudo mode
+
+List of things to disable:
+
+Voice and video:
+OpenH264 Video Codec
+Hardware Acceleration
+Echo Cancellation
+Debug Log
+
+Advanced:
+Hardware Acceleration

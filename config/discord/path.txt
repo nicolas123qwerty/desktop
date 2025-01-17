@@ -1,3 +1,0 @@
-/opt/discord
-
-change the file with thunar in sudo mode
