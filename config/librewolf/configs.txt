@@ -1,7 +1,11 @@
 Extensions:
-
-
+1 - Decentraleyes
+2 - I still don't care about cookies
+3 - Dark Reader
+4 - To Google Translate
 
 Settings:
-
-
+1 - Turn DRM on
+2 - Delete all others searchs engine (excpet DuckDuckGo)
+3 - Turn off the auto cleaning of cookies and website data when librewolf closed
+4 - Change de language to portuguese (of the browser and the google translate extension)
