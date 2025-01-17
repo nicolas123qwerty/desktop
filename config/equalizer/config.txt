@@ -1,0 +1,2 @@
+modkey + shift + enter
+alsamixer - Set the volume value 100 (In both)
