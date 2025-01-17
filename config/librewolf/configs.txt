@@ -1,7 +1,7 @@
 Extensions:
 1 - Decentraleyes
 2 - I still don't care about cookies
-3 - Dark Reader
+3 - Dark Reader - Desactivate in gmail
 4 - To Google Translate
 
 Settings:
