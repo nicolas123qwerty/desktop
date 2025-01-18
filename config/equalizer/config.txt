@@ -1,4 +1,3 @@
-modkey + shift + enter
 alsamixer - Set the volume value 100 (In both)
 
-In easyeffects set the in and out in -5.1db (remember, in both)
+In easyeffects set manually, if it doesn't come automatically the in and out in -5.1db (remember, in both)
