@@ -6,7 +6,7 @@ Voice and video:
 OpenH264 Video Codec
 Hardware Acceleration
 Echo Cancellation
-Debug Log
+Debug Logging
 
 Advanced:
 Hardware Acceleration
