@@ -4,3 +4,5 @@ Settings:
 3 - Turn off the auto cleaning of cookies and website data when librewolf closed
 4 - Set the dark theme in all fucking thing i open
 5 - Add shortcuts in main page (only 1 row)
+6 - Never show the bookmarks toolbar
+7 - Disable fullpage translations
