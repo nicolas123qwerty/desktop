@@ -1,8 +1,7 @@
 Settings:
-1 - Turn DRM on
-2 - Delete all others searchs engine (excpet DuckDuckGo)
-3 - Turn off the auto cleaning of cookies and website data when librewolf closed
-4 - Set the dark theme in all fucking thing i open
-5 - Add shortcuts in main page (only 1 row)
-6 - Never show the bookmarks toolbar
-7 - Disable fullpage translations
+1 - Delete all others searchs engine (excpet DuckDuckGo)
+2 - Turn off the auto cleaning of cookies and website data when librewolf closed
+3 - Set the dark theme in all fucking thing i open
+4 - Add shortcuts in main page (only 1 row)
+5 - Never show the bookmarks toolbar
+6 - Disable fullpage translations
