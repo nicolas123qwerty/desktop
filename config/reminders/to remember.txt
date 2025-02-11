@@ -1,1 +1,0 @@
-Remember to configure htop using the F2 key to access the setup menu.
