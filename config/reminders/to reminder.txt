@@ -1,6 +1,6 @@
 Brave:
 
-Configure the sources following this scheme:
+Configure the fonts following this scheme:
 
 1 - Standard font: MesloLGS Nerd Font;
 2 - Serif font: Serif;
@@ -9,3 +9,16 @@ Configure the sources following this scheme:
 5 - Mathematical font: MesloLGS Nerd Font;
 
 And remember to use the gtk theme.
+
+Htop:
+
+Click F2 to open the setup menu and follow the following settings in their respective categories:
+
+Display Options:
+
+[x] Also show CPU frequency;
+[x] Also show CPU temperature;
+
+Meters:
+
+Put the CPU average at the beginning of the first column;
