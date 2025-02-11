@@ -1,0 +1,9 @@
+Brave:
+
+Configure the sources following this scheme:
+
+1 - Standard font: MesloLGS Nerd Font;
+2 - Serif font: Serif;
+3 - Sans-serif font: Sans;
+4 - Fixed-width font: Font Awesome V4 Compatibility;
+5 - Mathematical font: MesloLGS Nerd Font;
