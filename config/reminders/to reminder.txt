@@ -7,3 +7,5 @@ Configure the sources following this scheme:
 3 - Sans-serif font: Sans;
 4 - Fixed-width font: Font Awesome V4 Compatibility;
 5 - Mathematical font: MesloLGS Nerd Font;
+
+And remember to use the gtk theme.
