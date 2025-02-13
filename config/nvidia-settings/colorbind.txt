@@ -1,4 +1,0 @@
-Digital Vibrance: 150
-Brightness: 0,080
-Contrast: 0,040
-Gamma: 1,100
