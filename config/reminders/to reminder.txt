@@ -22,3 +22,5 @@ Display Options:
 Meters:
 
 Put the CPU average at the beginning of the first column;
+
+Remember that to save the htop settings you have to close it using the F10 key after making the settings.
