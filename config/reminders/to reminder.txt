@@ -29,3 +29,10 @@ Headphone;
 
 1 - Alsa Mixer: Remember to turn the volume up to maximum, both on your headphones and microphone;
 2 - Easy Effects: Set manually, if it doesn't come automatically the in and out in -5.1db (remember, in both).
+
+Nvidia Settings Colorbind;
+
+Digital Vibrance: 150
+Brightness: 0,080
+Contrast: 0,040
+Gamma: 1,100
