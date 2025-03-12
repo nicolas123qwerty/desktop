@@ -1,0 +1,31 @@
+Brave:
+
+Configure the fonts following this scheme:
+
+1 - Standard font: MesloLGS Nerd Font;
+2 - Serif font: Serif;
+3 - Sans-serif font: Sans;
+4 - Fixed-width font: Font Awesome V4 Compatibility;
+5 - Mathematical font: MesloLGS Nerd Font;
+
+And remember to use the gtk theme.
+
+Htop:
+
+Click F2 to open the setup menu and follow the following settings in their respective categories:
+
+Display Options:
+
+[x] Also show CPU frequency;
+[x] Also show CPU temperature;
+
+Meters:
+
+Put the CPU average at the beginning of the first column;
+
+Remember that to save the htop settings you have to close it using the F10 key after making the settings.
+
+Headphone;
+
+1 - Alsa Mixer: Remember to turn the volume up to maximum, both on your headphones and microphone;
+2 - Easy Effects: Set manually, if it doesn't come automatically the in and out in -4.3db (remember, in both).
